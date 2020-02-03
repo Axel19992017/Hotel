@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HotelDataSet4" targetNamespace="http://tempuri.org/HotelDataSet4.xsd" xmlns:mstns="http://tempuri.org/HotelDataSet4.xsd" xmlns="http://tempuri.org/HotelDataSet4.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="HotelConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="HotelConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SistemaEjemplo.Properties.Settings.GlobalReference.Default.HotelConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tipo_habitacionTableAdapter" GeneratorDataComponentClassName="tipo_habitacionTableAdapter" Name="tipo_habitacion" UserDataComponentName="tipo_habitacionTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="HotelConnectionString (Settings)" DbObjectName="Hotel.dbo.tipo_habitacion" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nom_tipo FROM dbo.tipo_habitacion</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_tipo" DataSetColumn="nom_tipo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HotelDataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="HotelDataSet4" msprop:Generator_UserDSName="HotelDataSet4">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tipo_habitacion" msprop:Generator_TableClassName="tipo_habitacionDataTable" msprop:Generator_TableVarName="tabletipo_habitacion" msprop:Generator_TablePropName="tipo_habitacion" msprop:Generator_RowDeletingName="tipo_habitacionRowDeleting" msprop:Generator_RowChangingName="tipo_habitacionRowChanging" msprop:Generator_RowEvHandlerName="tipo_habitacionRowChangeEventHandler" msprop:Generator_RowDeletedName="tipo_habitacionRowDeleted" msprop:Generator_UserTableName="tipo_habitacion" msprop:Generator_RowChangedName="tipo_habitacionRowChanged" msprop:Generator_RowEvArgName="tipo_habitacionRowChangeEvent" msprop:Generator_RowClassName="tipo_habitacionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_tipo" msprop:Generator_ColumnVarNameInTable="columnnom_tipo" msprop:Generator_ColumnPropNameInRow="nom_tipo" msprop:Generator_ColumnPropNameInTable="nom_tipoColumn" msprop:Generator_UserColumnName="nom_tipo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E374D4ED-C3D7-48B3-966F-3B0325E6EEE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaEjemplo</RootNamespace>
+    <AssemblyName>SistemaEjemplo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\Conexión.cs" />
+    <Compile Include="Datos\DCliente.cs" />
+    <Compile Include="Datos\DEmpleado.cs" />
+    <Compile Include="Datos\DHabitacion.cs" />
+    <Compile Include="Datos\DHabitacionReserva.cs" />
+    <Compile Include="Datos\DHuesped.cs" />
+    <Compile Include="Datos\DOperaciones.cs" />
+    <Compile Include="Datos\DServicio.cs" />
+    <Compile Include="Datos\DHabitacionServicioReserva.cs" />
+    <Compile Include="Datos\DUsuario.cs" />
+    <Compile Include="HotelDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HotelDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HotelDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HotelDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HotelDataSet4.cs">
+      <DependentUpon>HotelDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HotelDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\DReserva.cs" />
+    <Compile Include="HotelDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HotelDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\NCliente.cs" />
+    <Compile Include="Negocio\NEmpleado.cs" />
+    <Compile Include="Negocio\NHabitacion.cs" />
+    <Compile Include="Negocio\NHabitacionReserva.cs" />
+    <Compile Include="Negocio\NHabitacionServicioReserva.cs" />
+    <Compile Include="Negocio\NHuesped.cs" />
+    <Compile Include="Negocio\NOperaciones.cs" />
+    <Compile Include="Negocio\NReserva.cs" />
+    <Compile Include="Negocio\NServicios.cs" />
+    <Compile Include="Negocio\NUsuario.cs" />
+    <Compile Include="Presentación\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmAddReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmAddReserva.Designer.cs">
+      <DependentUpon>frmAddReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmDisponibilidadHabitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmDisponibilidadHabitaciones.Designer.cs">
+      <DependentUpon>frmDisponibilidadHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmEmpleado.designer.cs">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmHabitacion.designer.cs">
+      <DependentUpon>frmHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmRecaudaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmRecaudaciones.Designer.cs">
+      <DependentUpon>frmRecaudaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmReserva.Designer.cs">
+      <DependentUpon>frmReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmServicio.Designer.cs">
+      <DependentUpon>frmServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentación\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentación\Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentación\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmAddReserva.resx">
+      <DependentUpon>frmAddReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmDisponibilidadHabitaciones.resx">
+      <DependentUpon>frmDisponibilidadHabitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmEmpleado.resx">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmHabitacion.resx">
+      <DependentUpon>frmHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmRecaudaciones.resx">
+      <DependentUpon>frmRecaudaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmReserva.resx">
+      <DependentUpon>frmReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmServicio.resx">
+      <DependentUpon>frmServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentación\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="HotelDataSet1.xsc">
+      <DependentUpon>HotelDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet1.xss">
+      <DependentUpon>HotelDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet11.xsc">
+      <DependentUpon>HotelDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet11.xss">
+      <DependentUpon>HotelDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet2.xsc">
+      <DependentUpon>HotelDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet2.xss">
+      <DependentUpon>HotelDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet3.xsc">
+      <DependentUpon>HotelDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet3.xss">
+      <DependentUpon>HotelDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet4.xsc">
+      <DependentUpon>HotelDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet4.xss">
+      <DependentUpon>HotelDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet5.xsc">
+      <DependentUpon>HotelDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet5.xss">
+      <DependentUpon>HotelDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet6.xsc">
+      <DependentUpon>HotelDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="HotelDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelDataSet6.xss">
+      <DependentUpon>HotelDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reportes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,116 @@
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+c:\users\walger\documents\visual studio 2013\Projects\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+C:\Users\Admin38\Downloads\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+C:\Users\Admin38\Desktop\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmPréstamo.resources
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+C:\Users\Walger\Desktop\Recursos\SistemaEjemplo\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+F:\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+F:\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+F:\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmPréstamo.resources
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+F:\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+F:\ma\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+F:\ma\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+F:\ma\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmPréstamo.resources
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+F:\ma\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+C:\Users\Docente\Desktop\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+C:\Users\Docente\Desktop\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+C:\Users\Docente\Desktop\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmPréstamo.resources
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+C:\Users\Docente\Desktop\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.Cache
+D:\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+D:\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+D:\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+E:\IS2S2\BD\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+E:\IS2S2\BD\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+E:\IS2S2\BD\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojAssemblyReference.cache
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.cache
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.CoreCompileInputs.cache
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmServicio.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmDisponibilidadHabitaciones.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmRecaudaciones.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmReserva.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.Inicio.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmAddReserva.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmEmpleado.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmHabitacion.resources
+E:\IS2S2\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmUsuario.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe.config
+E:\UNI\2M2-IS\BD\SistemaEjemplo\bin\Debug\SistemaEjemplo.exe
+E:\UNI\2M2-IS\BD\SistemaEjemplo\bin\Debug\SistemaEjemplo.pdb
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.csprojAssemblyReference.cache
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.frmPrincipal.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmAddReserva.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmCliente.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmDisponibilidadHabitaciones.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmEmpleado.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmHabitacion.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmRecaudaciones.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmReserva.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmServicio.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.frmUsuario.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Presentación.Inicio.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.Properties.Resources.resources
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.csproj.GenerateResource.cache
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.exe
+E:\UNI\2M2-IS\BD\SistemaEjemplo\obj\Debug\SistemaEjemplo.pdb
